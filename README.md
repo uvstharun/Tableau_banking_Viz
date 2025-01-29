@@ -1,6 +1,4 @@
-
-
-####Bank Marketing Campaign Dashboard - README###
+#Bank Marketing Campaign Dashboard - README
 
 📌 Overview
 
